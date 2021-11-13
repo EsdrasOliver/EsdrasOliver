@@ -1,4 +1,4 @@
-### Oi! Eu sou Esdras Oliveira, estudante de tecnologia 
+### Oi! Eu sou Esdras Oliveira, amante e estudante de tecnologia 
 
 ##
 
