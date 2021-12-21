@@ -2,7 +2,7 @@
 
 ##
 
-- 🌱 Atualmente estou aprendendo front-end
+- 👨‍💻 Atualmente estou aprendendo front-end
 - 📫 Como me encontrar: esdrasodej@gmail.com
   
 <div>
