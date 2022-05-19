@@ -13,7 +13,13 @@
 </div>
    
 ### Ferramentas e linguagens
-
 ##
-
+<div>
+  <img src="https://github.com/EsdrasOliver/EsdrasOliver/blob/main/img-tecnologias/html5-plain.svg" /> 
+  <img src="https://github.com/EsdrasOliver/EsdrasOliver/blob/main/img-tecnologias/css3-plain.svg" />
+  <img src="https://github.com/EsdrasOliver/EsdrasOliver/blob/main/img-tecnologias/javascript-plain.svg" />
+  <img src="https://github.com/EsdrasOliver/EsdrasOliver/blob/main/img-tecnologias/react-original.svg" />
+  <img src="https://github.com/EsdrasOliver/EsdrasOliver/blob/main/img-tecnologias/typescript-original.svg" />
+  <img src="https://github.com/EsdrasOliver/EsdrasOliver/blob/main/img-tecnologias/git-plain.svg" />
+</div>
     
