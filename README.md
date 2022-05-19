@@ -15,11 +15,11 @@
 ### Ferramentas e linguagens
 ##
 <div>
-  <img src="https://github.com/EsdrasOliver/EsdrasOliver/blob/main/img-tecnologias/html5-plain.svg" /> 
-  <img src="https://github.com/EsdrasOliver/EsdrasOliver/blob/main/img-tecnologias/css3-plain.svg" />
-  <img src="https://github.com/EsdrasOliver/EsdrasOliver/blob/main/img-tecnologias/javascript-plain.svg" />
-  <img src="https://github.com/EsdrasOliver/EsdrasOliver/blob/main/img-tecnologias/react-original.svg" />
-  <img src="https://github.com/EsdrasOliver/EsdrasOliver/blob/main/img-tecnologias/typescript-original.svg" />
-  <img src="https://github.com/EsdrasOliver/EsdrasOliver/blob/main/img-tecnologias/git-plain.svg" />
+  <img src="https://github.com/EsdrasOliver/EsdrasOliver/blob/main/img-tecnologias/html5-plain.svg" width="50" height="40" align="center" /> 
+  <img src="https://github.com/EsdrasOliver/EsdrasOliver/blob/main/img-tecnologias/css3-plain.svg" width="50" height="40" align="center" />
+  <img src="https://github.com/EsdrasOliver/EsdrasOliver/blob/main/img-tecnologias/javascript-plain.svg" width="50" height="40" align="center" />
+  <img src="https://github.com/EsdrasOliver/EsdrasOliver/blob/main/img-tecnologias/react-original.svg" width="50" height="40" align="center" />
+  <img src="https://github.com/EsdrasOliver/EsdrasOliver/blob/main/img-tecnologias/typescript-original.svg" width="50" height="40" align="center" />
+  <img src="https://github.com/EsdrasOliver/EsdrasOliver/blob/main/img-tecnologias/git-plain.svg" width="50" height="40" align="center" />
 </div>
     
