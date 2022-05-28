@@ -1,13 +1,13 @@
 # Olá 👋, meu nome é Esdras Oliveira
 
-Desenvolvedor Front-end
-Graduando em Sistemas de Informação
+<p>:computer: Desenvolvedor Front-end</p>
+<p>:books: Graduando em Sistemas de Informação</p>
 
-## 💫 Liitle Bit More About Me
+## 💫 Um pouco mais sobre mim
 <p>🌱 Atualmente estou aprendendo NodeJS e TypeScript</p>
-<p>📫 Como chegar até mim? esdrasodej@gmail.com</p>
+<p>📫 Como chegar até mim: esdrasodej@gmail.com</p>
 
-## 💻 Skills
+## 💻 Minhas habilidades
 <p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -19,22 +19,13 @@ Graduando em Sistemas de Informação
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
 </p>
 
-## 👥 Connect With Me
+## 👥 Conecte-se comigo
 <p>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/esdras-oliveira-446b261a3/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.instagram.com/https://www.instagram.com/esdras_odj/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=EsdrasOliver">
-</p>
-
-## 📊 Github Status
+## 📊 Status do GitHub
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=EsdrasOliver&show_icons=true"><p>
 
