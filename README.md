@@ -4,7 +4,7 @@
 <p>:books: Graduando em Sistemas de Informação</p>
 
 ## 💫 Um pouco mais sobre mim
-<p>🌱 Atualmente estou aprendendo NodeJS e TypeScript</p>
+<p>🌱 Atualmente estou aprendendo NodeJS e ReactJS</p>
 <p>📫 Como chegar até mim: esdrasodej@gmail.com</p>
 
 ## 💻 Minhas habilidades
