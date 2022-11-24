@@ -27,6 +27,4 @@
 
 ## 📊 Status do GitHub
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=EsdrasOliver&show_icons=true"><p>
-
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsdrasOliver&layout=compact"><p>
