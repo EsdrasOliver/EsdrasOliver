@@ -4,7 +4,7 @@
 <p>:books: Graduando em Sistemas de Informação</p>
 
 ## 💫 Um pouco mais sobre mim
-<p>🌱 Conhecimento em ReactJs, Angular, Consumo de API e NodeJs</p>
+<p>🌱 Conhecimento em JavaScript e Consumo de API</p>
 <p>📫 Como chegar até mim: esdrasodej@gmail.com</p>
 
 ## 💻 Minhas habilidades
